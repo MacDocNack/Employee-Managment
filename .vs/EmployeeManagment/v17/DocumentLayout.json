@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\pages\\employeelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\employeelistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|c:\\users\\user\\source\\repos\\employeemanagment\\employeemanagment\\pages\\employeeeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\employeeeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\pages\\employeelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\employeelistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\pages\\employeeeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\employeeeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\classes\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\classes\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|C:\\Users\\User\\source\\repos\\EmployeeManagment\\employeemanagment\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0606B6E8-1951-4AF3-8652-C0CA2ECEDD57}|EmployeeManagment\\EmployeeManagment.csproj|solutionrelative:employeemanagment\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\App.xaml",
+              "RelativeDocumentMoniker": "EmployeeManagment\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\App.xaml",
+              "RelativeToolTip": "EmployeeManagment\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T08:09:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\EmployeeEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeEditPage.xaml.cs",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\EmployeeEditPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:54:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeEditPage.xaml",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\EmployeeEditPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeEditPage.xaml",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\EmployeeEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T09:45:58.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EmployeeManagment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\MainWindow.xaml",
+              "RelativeToolTip": "EmployeeManagment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T08:00:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeListPage.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\EmployeeListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeListPage.xaml.cs",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\EmployeeListPage.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA4wFsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:50:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeListPage.xaml",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\EmployeeListPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\EmployeeListPage.xaml",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\EmployeeListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T08:44:41.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Classes\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Classes\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagment\\Classes\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:42:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Classes\\PageController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Classes\\PageController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Classes\\PageController.cs",
+              "RelativeToolTip": "EmployeeManagment\\Classes\\PageController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:44:40.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:43:15.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "EmployeeManagment\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagment\\EmployeeManagment\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "EmployeeManagment\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T06:42:42.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
