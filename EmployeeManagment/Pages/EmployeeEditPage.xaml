@@ -15,7 +15,9 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Column="1" VerticalAlignment="Center" Width="350">
+            <Label Content="Имя"/>
             <TextBox Name="EmployeeName"/>
+            <Label Content="Должность"/>
             <TextBox Name="EmployeePosition"/>
             <Button Content="Сохранить"
                     Style="{DynamicResource RoundedButton}"

@@ -96,19 +96,9 @@ namespace EmployeeManagment.Pages
 
         public void SaveListToJson()
         {
-            ObservableCollection<Employee> empToJson = new ObservableCollection<Employee>();
             if (EmployeeData.Count > 0)
             {
-                for (int i = 0; i < EmployeeData.Count; i++)
-                {
-                    empToJson.Add(new Employee()
-                    {
-                        Name = EmployeeData[i].Name,
-                        Position = EmployeeData[i].Position
-                    });
-                    
-                }
-                string json = JsonSerializer.Serialize(empToJson).Normalize();
+                string json = JsonSerializer.Serialize(EmployeeData);
 
                 File.WriteAllText(_filePath, json);
             }

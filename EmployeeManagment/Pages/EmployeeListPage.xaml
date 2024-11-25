@@ -21,7 +21,8 @@
                       HeadersVisibility="Column"
                       ColumnWidth="350"
                       VerticalScrollBarVisibility="Auto" 
-                      MinHeight="250"/>
+                      MinHeight="250"
+                      CanUserResizeColumns="False"/>
 
             <Button Content="Редактировать" 
                     Style="{DynamicResource RoundedButton}"

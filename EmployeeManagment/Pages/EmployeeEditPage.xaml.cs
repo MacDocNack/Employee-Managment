@@ -21,7 +21,7 @@ namespace EmployeeManagment.Pages
     public partial class EmployeeEditPage : Page
     {
         private string _filePath = $"../employee.txt";
-        private int _elementNumber = -1;
+        private int _element = -1;
         public EmployeeEditPage()
         {
             InitializeComponent();
@@ -34,7 +34,7 @@ namespace EmployeeManagment.Pages
 
             if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(position))
             {
-                if (_elementNumber == -1)
+                if (_element == -1)
                 {
                     Employee newEmployee = new Employee() { Name = name, Position = position };
                     EmployeeListPage.Instance.EmployeeData.Add(newEmployee);
@@ -45,11 +45,11 @@ namespace EmployeeManagment.Pages
                 }
                 else
                 {
-                    EmployeeListPage.Instance.EmployeeData[_elementNumber] = new Employee() { Name = name, Position = position };
+                    EmployeeListPage.Instance.EmployeeData[_element] = new Employee() { Name = name, Position = position };
                     EmployeeName.Clear();
                     EmployeePosition.Clear();
                     EmployeeListPage.Instance.SaveListToJson();
-                    _elementNumber = -1;
+                    _element = -1;
                     NavigationService.Navigate(PageController.EmployeeListPage);
                 }
             }
@@ -59,7 +59,7 @@ namespace EmployeeManagment.Pages
         {
             EmployeeName.Text = name;
             EmployeePosition.Text = position;
-            _elementNumber = element;
+            _element = element;
         }
     }
 }
